@@ -108,6 +108,86 @@ The need for additional explanation in a system is typically undesired. In the e
 
 <h3> Maple </h3>
 
+<h4> Visibility of system status </h4>
+Both the planner and inspiration pages in Maple provide the user with an idea of what each page may hold. Every feature, such as adding a new plan and assigning family members to certain to-dos, provides the user with instruction on how to proceed. <b> Severity Rating: 0 </b>
 
+<h4> Match between system and the real world </h4>
+Most pages and almost all actions in Maple are shown by a pairing of a word and icon related to that word. For example, the all to-dos list mimics that of a to-do list one would make themselves, allowing you to check off items and assign family users to a specific task. <b> Severity Rating: 0 </b>
+
+<h4> User control and freedom </h4>
+Almost all actions in Maple are performed in a pop-up window that contains an X or arrow indicating to the user that they may go back and undo their action. <b> Severity Rating: 0 </b>
+
+<h4> Consistency and standards </h4>
+The design of Maple similarly follows the standards that other family planning apps have. These standards typically consist of a calendar of upcoming events to which you can add, and a to-do list page.
+<b> Severity Rating: 0 </b>
+
+<h4> Error prevention </h4>
+During my trial run of Maple I did not encounter any errors nor did the app ever stop working.
+<b> Severity Rating: 0 </b>
+
+<h4> Recognition rather than recall </h4>
+Many buttons and actionable items in Maple contain both a word and icon describing what the specific item performs. This combination of words and associated icons throughout the app allow for the user to get a better idea of how to navigate different areas of the app.
+<b> Severity Rating: 0 </b>
+
+<h4> Flexibility and efficiency of use </h4>
+Maple seems to have no flexibility in the actions a user can perform. All actions must be performed with the same steps every time.
+<b> Severity Rating: 2 </b>
+<p></p>Suggestion: Implement ways to allow users to maximize their efficiency if they want to. For example, it may be helpful to be able to create a list and at the same time add starter items to a list.
+
+<h4> Aesthetic and minimalist design </h4>
+Maple's design is clean and minimal, it only shows what is necessary and relevant to the user.
+<b> Severity Rating: 0 </b>
+
+<h4> Help users recognize, diagnose, and recover from errors </h4>
+During my trial run of Maple I did not encounter any errors nor did the app ever stop working.
+<b> Severity Rating: 0 </b>
+
+<h4> Help and documentation </h4>
+Help and documentation for Maple is hosted on an external site outside of the app. Documentation is fleshed out and easy to navigate.
+<b> Severity Rating: 2 </b>
+<p></p>Suggestion: Although help and extra documentation can be found in the app, it would be easier for the user if the Maple Tips and FAQ tab under the Account page was not a redirect link and instead a page within the app.
 
 <h3> Cozi </h3>
+
+<h4> Visibility of system status </h4>
+Each page and action in Cozi gives the user an idea of where they are in the app. Each page contains actions that the user can perform and not worry about redirection to other sections of the app.
+<b> Severity Rating: 0 </b>
+
+<h4> Match between system and the real world </h4>
+The conventions used in Cozi similarly follow real world conventions. For example, Lists, Recipes, and Calendar are accompanied with icons that give the user an idea of what exactly each page function serves. 
+<b> Severity Rating: 0 </b>
+
+<h4> User control and freedom </h4>
+Users may delete of go back on actions they did not intend to perform. Each action is Cozi is accompanied with a pop-up tab that gives users the ability to cancel their action.
+<b> Severity Rating: 0 </b>
+
+<h4> Consistency and standards </h4>
+The design of Cozi similarly follows the standards that other family planning apps have. These standards typically consist of a calendar of upcoming events to which you can add, and a to-do list page.
+<b> Severity Rating: 0 </b>
+
+<h4> Error prevention </h4>
+During my trial run of Cozi I did not encounter any errors nor did the app fail to properly work.
+<b> Severity Rating: 0 </b>
+
+<h4> Recognition rather than recall </h4>
+Within Cozi there are many actions a user can perform. Within each action such as adding an item to a list, it often occurs that the corner of each action contains a + sign and vertical dots. The design is poor in this regard since the user has to experiment with the interface before they can actually understand what actions are performed. For example, the activity of sharing a list is not entirely clear to a new user.
+<b> Severity Rating: 2 </b>
+<p></p>Suggestion: Take a look at Maple's design to gather inspiration on how to properly connect action words with existing icons the user may be familiar with.
+
+<h4> Flexibility and efficiency of use </h4>
+Cozi leaves no room for flexibility in the actions a user can perform. Each action typically takes a 3-4 steps and there are seemingly no shortcuts available in the app that experienced users can take.
+<b> Severity Rating: 2 </b>
+<p></p>Suggestion: Implement ways to allow users to maximize their efficiency if they want to. For example, it may be helpful to be able to create a list and at the same time add starter items to a list.
+
+<h4> Aesthetic and minimalist design </h4>
+Cozi's UI is cluttered with advertisements for Cozi Gold and other companies ads. Features like a month view for the calendar page are visibly locked out and advertise Cozi Gold when clicked. Also, the Agenda page, recipe page, and home page provide too much information to the user without proper spacing.
+<b> Severity Rating: 3 </b>
+<p></p>Suggestion: Remove the abundance of advertisements and give proper spacing and borders to components that do not interact with eachother.
+
+<h4> Help users recognize, diagnose, and recover from errors </h4>
+During my trial run of Cozi I did not encounter any errors nor did the app fail to properly work.
+<b> Severity Rating: 0 </b>
+
+<h4> Help and documentation </h4>
+Help and external documentation can be found within the Cozi app under the Family page and the Help tab. Documentation is fleshed out and easy to navigate.
+<b> Severity Rating: 0 </b>
