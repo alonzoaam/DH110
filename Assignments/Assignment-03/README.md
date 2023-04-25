@@ -46,9 +46,35 @@ The research method used was overt participatory observation.
 
 <h4>Interview Guide & Transcript</h4>
 
-<h3>Interview Insights</h3>
+
+ * <a href="https://docs.google.com/document/d/1lEpzIQhYWiMLxqEfkPvBdDgZuoYIh8TOEFtMp0sSt-4/edit?usp=sharing">Interview Script</a>
+
+
+ * <a href="https://docs.google.com/document/d/1DKVyuH1Qb8lBIqRmR4RyNHY-A3WUU9c6k-oIn3fGQJE/edit?usp=sharing">Interview Transcript</a>
+
+
+ * <a href="">Interview Video Recording</a>
 
 <h3>Reflection</h3>
 
+<h4>Key Insights</h4>
+
+What is the method?
+ * Chang 9:20: This method is typing in tips and a topic and putting reddit after it so you can read other people’s anecdotes and personal accounts. It’s anonymous and feels more personal sometimes.
+
+Is this something [family counseling] your family would try? Would they consider it?
+ * Chang 16:30: No, no. I think their attitude towards it would be “we can just have conversations ourselves”. I feel like they (my outer family) don't like bringing outer people into the family business. There’s also the idea of shame and opening up to someone else.
+
+Are there ways in which you think this method [family counseling] hinders family connection?
+ * Chang 17:28: Yeah, I think that if it goes badly it could make things worse after. If the conversations that were had went bad and didn’t have a conclusion and it left people to go out on their own it could harm things in the future. If people are too honest it could offend people.
 
 
+Are there any methods to connect with family that you are aware of and avoid? 
+ * Chang 22:15: I feel like sometimes families are really rude to each other, in a way for them to show how open with each other they are. Methods that involve blurring the line between respect and connection are ones I avoid.
+
+
+If you could create an app that put you in a group with your family, what features would you like in it?
+ * Chang 23:18: I would imagine it lets us message and call and send pictures, and maybe how slack lets you make your own emojis. Just customizing what it looks like would make it a lot of fun.
+
+<h4>Reflection</h4>
+From the interview I was able to gather a few key insights that help in the task of creating more methods for easier and deeper family connection. One of the main key insights from the interview was that in families it often the case for parents to not feel as open to services such as counseling or therapy. This is an existing idea among many families that prevents family members looking for deeper connection from using these services. Another key insight found was that offering lists of how to make families connect is impersonal and thus hard to act on. The interviewee looked for advice to connect with family through a website of anonymous users relying their personal stories. I think the interview best shows how family counseling and therapy is not an option for many families due to the stigma surrounding it, which highlights a need for a less invasive form of servicing that allows for family connection.
