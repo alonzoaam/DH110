@@ -43,7 +43,6 @@ What would the users usually do in order to complete that activity?
 
 The research method used was overt participatory observation.
 
-<h4>Interview Video File</h4>
 
 <h4>Interview Guide & Transcript</h4>
 
