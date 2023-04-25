@@ -17,6 +17,8 @@ In this GitHub repository under Assignments/Assignment-01/README.md, we can reca
   * Recognition rather than recall: Information is not easily realized by the user.
   * Flexibility and efficiency of use: Users of varying levels do not have different methods to perform the same task.
   * Aesthetic and minimalist design: The app contains information that is abundant and not necessary to the use.
+
+The pilot usability testing took place in my apartment in Los Angeles, California. The participant was asked to perform various functions on the Cozi app and asked to fill out a questionnaire while doing so.
   
  <h2>Survey Link</h2>
   * <a href="https://forms.gle/M9NAgsRRmxsaoJwF6">Cozi UT Survey Link</a>
