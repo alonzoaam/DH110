@@ -44,7 +44,7 @@ What would the users usually do in order to complete that activity?
 The research method used was overt participatory observation.
 
 
-<h4>Interview Guide & Transcript</h4>
+<h4>Interview Resources & Transcript</h4>
 
 
  * <a href="https://docs.google.com/document/d/1lEpzIQhYWiMLxqEfkPvBdDgZuoYIh8TOEFtMp0sSt-4/edit?usp=sharing">Interview Script</a>
@@ -54,6 +54,9 @@ The research method used was overt participatory observation.
 
 
  * <a href="">Interview Video Recording</a>
+
+ 
+ * <a href="https://drive.google.com/file/d/1sGV29NQ5thBse1oisg4zo3b-3bXgVDIo/view?usp=sharing">Field Notes</a>
 
 <h3>Reflection</h3>
 
