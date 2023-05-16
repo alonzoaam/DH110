@@ -7,12 +7,16 @@ This method saves designers time, and gives them the ability to have other users
 
 <h2>Supported Tasks</h2>
 The current prototype can support two tasks:
+The first task shows the functionality of the wellness tab.
+
 1. Go to Wellness Tab
 2. Select "Answer Daily Question"
 3. Answer Daily Question
 4. Check Family Member Emotion
 5. Go to Home Tab
+<br></br>
 
+The second task shows the functionality of the events tab.
 1. Check Planning Tab
 2. Check Calendar
 3. Sort to week view
@@ -24,5 +28,6 @@ The current prototype can support two tasks:
 
 <h2>Prototypes</h2>
 <h3>Task 1: Answering Wellness Question & Viewing Family Status</h3>
-
+<img src="../../Media/A05/task1.png"/>
 <h3>Task 2: Viewing Events Tab and Editing a List</h3>
+<img src="../../Media/A05/task2.png"/>
