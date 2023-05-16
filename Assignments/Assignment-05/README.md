@@ -31,3 +31,13 @@ The second task shows the functionality of the events tab.
 <img src="../../Media/A05/task1.png"/>
 <h3>Task 2: Viewing Events Tab and Editing a List</h3>
 <img src="../../Media/A05/task2.png"/>
+
+<h2>Testing</h2>
+<h3>Testing Family Tab</h3>
+<img src="../../Media/A05/familyTask.jpeg"/>
+<h3>Testing Events Tab</h3>
+<img src="../../Media/A05/eventTask.jpeg"/>
+
+<h2>Testing Results</h2>
+The user testing resulted in a few key findings. In both the family and event tasks, the tester moved to a different screen than intended to start their tasks. Performing the actions themselves, such as answering the daily question, removing an item from the list, and checking a family member's status all seemed relatively trivial for the tester. In the future, it may prove useful to improve the design by adding additional indicators to each interactable item by providing box outlines or icons to indicate what the user can click and what is solely for reading. Another finding was that the user did not make use of the side bar tab to go home, which may lead to confusion for later users if not changed. I would revise the prototype by giving color to specific items to indicate user progress and user emotional status. Also, I would implement a clearer indicator to whether or not a user has answered the daily question, and perhaps make better use of the notifications in the top rights.
+
