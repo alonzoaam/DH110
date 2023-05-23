@@ -37,25 +37,17 @@ The purpose of this project is to create a family connection app that incorporat
 Lato, 3% Letter Spacing, 32 Line Spacing, Regular
 
 Sidebar: 40px
-
 Button: 28px, 32 Line Spacing
-
 Title Text: 32px, 36 Line Spacing
-
 Paragraph Text: 24px, 30 Line Spacing
-
 Sub Text: 16px
-
 Main Tabs (Event, Family): 26px
 <h3>Shape</h3>
 Component Curve Radius: 40
 <h3>Color</h3>
 Background: FCF2ED
-
 Top/Botton Bar: F8DBCA
-
 Button: F9E9E4
-
 Component: FFE4DB
 
 <h2>Link to Interface Design</h2>
