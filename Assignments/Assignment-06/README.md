@@ -31,23 +31,32 @@ The purpose of this project is to create a family connection app that incorporat
 
 <h2>Design Summary</h2>
 <h3>Layout</h3>
-* 6 Rows, 8% Opacity, 30 Margin, 15 Gutter
-* 3 Columns, 8% Opacity, 15 Margin, 20 Gutter
+6 Rows, 8% Opacity, 30 Margin, 15 Gutter
+3 Columns, 8% Opacity, 15 Margin, 20 Gutter
 <h3>Typography</h3>
-* Lato, 3% Letter Spacing, 32 Line Spacing, Regular
-* Sidebar: 40px
-* Button: 28px, 32 Line Spacing
-* Title Text: 32px, 36 Line Spacing
-* Paragraph Text: 24px, 30 Line Spacing
-* Sub Text: 16px
-* Main Tabs (Event, Family): 26px
+Lato, 3% Letter Spacing, 32 Line Spacing, Regular
+
+Sidebar: 40px
+
+Button: 28px, 32 Line Spacing
+
+Title Text: 32px, 36 Line Spacing
+
+Paragraph Text: 24px, 30 Line Spacing
+
+Sub Text: 16px
+
+Main Tabs (Event, Family): 26px
 <h3>Shape</h3>
-* Component Curve Radius: 40
+Component Curve Radius: 40
 <h3>Color</h3>
-* Background: FCF2ED
-* Top/Botton Bar: F8DBCA
-* Button: F9E9E4
-* Component: FFE4DB
+Background: FCF2ED
+
+Top/Botton Bar: F8DBCA
+
+Button: F9E9E4
+
+Component: FFE4DB
 
 <h2>Link to Interface Design</h2>
 <a href="https://www.figma.com/file/TovH3HwMOyu7whBS2J3CIy/DH110Assignment6?type=design&node-id=0%3A1&t=YkLNr4qZ4VM0UQ2X-1">Interface Design Page</a>
