@@ -15,6 +15,7 @@ The purpose of this project is to create a family connection app that incorporat
 <h3>Colors</h3>
 <img src="../../Media/A06/Color.png"/>
 <h2>Final Graphical Interface Design</h2>
+The Final Graphical Interface Design was created by first picking layout, typography, shape variation, and lastly color scheme. After choosing the pastel pink and tan for the final color scheme it became apparent that there was an abundance of blank space in the app. To minimize this, I implemented additional rounded rectangles to serve as component frames for groups of text and image. The final color scheme was also slightly tweaked in order to provide better shadowing and still allow for the user to distinguish between objects.
 <img src="../../Media/A06/FinalInterface.png"/>
 
 <h2>Accessibility Check</h2>
@@ -27,6 +28,18 @@ The purpose of this project is to create a family connection app that incorporat
 </table>
 
 <h2>Impression Test</h2>
+In order to quickly test the app's interface design, I conducted a few impression tests that resulted in the following feedback:
+After showing them the proposed final graphical interface design, I asked 3 users to provide a simple line of feedback:
+
+
+"It looks clean, and the color flows nicely."
+
+"There is a lot going on on the last page, the other pages look more minimalistic."
+
+"There's outlines on every shape, I'm not sure how I feel about that. I think it works in some cases but it made things feel cluttered."
+
+
+Impression Testing allowed me to understand that users are well adjusted to a minimalistic design given the typography, shape variation, and color scheme used in the design. The soft pastel color palette and lack of intensive coloring used as the makeup for the app's interface gave the users the impression of a minimalistic design by providing them with a unharsh screen. I learned that the stroke outlines around every component may not be necessary and can show to clutter up the interface. The proposed improvement is to make use of other effects such as drop shadow to allow components to pop out while staying in unison with the minimalistic design. 
 
 
 <h2>Design Summary</h2>
@@ -37,18 +50,27 @@ The purpose of this project is to create a family connection app that incorporat
 Lato, 3% Letter Spacing, 32 Line Spacing, Regular
 
 Sidebar: 40px
+
 Button: 28px, 32 Line Spacing
+
 Title Text: 32px, 36 Line Spacing
+
 Paragraph Text: 24px, 30 Line Spacing
+
 Sub Text: 16px
+
 Main Tabs (Event, Family): 26px
 <h3>Shape</h3>
 Component Curve Radius: 40
 <h3>Color</h3>
 Background: FCF2ED
+
 Top/Botton Bar: F8DBCA
+
 Button: F9E9E4
+
 Component: FFE4DB
+
 
 <h2>Link to Interface Design</h2>
 <a href="https://www.figma.com/file/TovH3HwMOyu7whBS2J3CIy/DH110Assignment6?type=design&node-id=0%3A1&t=YkLNr4qZ4VM0UQ2X-1">Interface Design Page</a>
