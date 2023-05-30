@@ -5,13 +5,13 @@ and daily wellness tasks. The app aims to encourage family connection through or
 
 <h2>Supported Tasks</h2>
 The prototype can support these current user tasks:
-* Answering a daily question and setting daily status from the home screen. (Flow 1)
-* Checking overview of family members. (Flow 1)
-* Checking family member daily answer and status. (Flow 1)
-* Checking a shared calendar. (Flow 2)
-* Checking a shared list and removing an item. (Flow 2)
-* Display a link to invite other users. (Flow 3)
-* Displaying Sidebar Tabs and using navigating Home. (Flow 1)
+<ul><li> Answering a daily question and setting daily status from the home screen. (Flow 1) </li>
+<li> Checking overview of family members. (Flow 1) </li>
+<li> Checking family member daily answer and status. (Flow 1) </li>
+<li> Checking a shared calendar. (Flow 2) </li>
+<li> Checking a shared list and removing an item. (Flow 2) </li>
+<li> Display a link to invite other users. (Flow 3) </li>
+<li> Displaying Sidebar Tabs and using navigating Home. (Flow 1) </li></ul>
 
 <h2>Wireframe</h3>
 <img src="../../Media/A07/WireFrame.png"/>
