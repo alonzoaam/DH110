@@ -19,3 +19,5 @@ $${\color{purple}Interface Design}$$
 
 $${\color{purple}High-Fidelity Prototyping}$$
 
+<img src="Media/A07/WireFrame.png"/>
+
