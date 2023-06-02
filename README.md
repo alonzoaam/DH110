@@ -15,7 +15,8 @@ $${\color{purple}UX Storytelling}$$
 
 $${\color{purple}Low-Fidelity Prototyping}$$
 
-<img src="Media/task2.png"/>
+<img src="Media/A05/task2.png"/>
+<img src="Media/A05/task1.png"/>
 
 $${\color{purple}Interface Design}$$
 
